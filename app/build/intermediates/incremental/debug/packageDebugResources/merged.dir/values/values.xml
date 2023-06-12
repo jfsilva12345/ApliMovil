@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="thickness_divider">1dp</dimen>
+    <string name="app_name">EcoSpin</string>
+    <string name="back_button">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_accompaniment">Choose Accompaniment</string>
+    <string name="choose_entree">Choose Entree</string>
+    <string name="choose_side_dish">Choose Side Dish</string>
+    <string name="default_web_client_id" translatable="false">589209662199-mh1n3e5d794fjf4f1h1fac1be214idl2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">589209662199</string>
+    <string name="google_api_key" translatable="false">AIzaSyAByUaWnUGhtkf4HEa70aaEHr2P0Ue7lLo</string>
+    <string name="google_app_id" translatable="false">1:589209662199:android:9cfff089ab4ae1f77b19f2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAByUaWnUGhtkf4HEa70aaEHr2P0Ue7lLo</string>
+    <string name="google_storage_bucket" translatable="false">ecospin-bac28.appspot.com</string>
+    <string name="historial_pago">Historial de pago</string>
+    <string name="inicio">Inicio de sesion</string>
+    <string name="menu_principal">Menu Principal</string>
+    <string name="next">Next</string>
+    <string name="opciones">Opciones de transporte</string>
+    <string name="order_checkout">Order Checkout</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="project_id" translatable="false">ecospin-bac28</string>
+    <string name="registro">Registro de usuario</string>
+    <string name="start_order">Start Order</string>
+    <string name="submit">Submit</string>
+    <string name="subtotal">Subtotal: %s</string>
+    <string name="tax">Tax: %s</string>
+    <string name="total">Total: %s</string>
+    <style name="Theme.EcoSpin" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
